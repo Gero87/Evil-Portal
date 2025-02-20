@@ -1,4 +1,7 @@
-# Evil-Portal
+# Contact me to oreg1987@libero.it for the complete firmware
+-----------------------------------------------------------------------
+
+# Evil-Portal Sample
 
 # Connections for ESP32 Lolin 32 Lite
 
