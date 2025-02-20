@@ -13,3 +13,6 @@ SCK--> 5
 SDA--> 4
 
 Led --> 13
+
+Flashing with ESP_tool
+0x10000
