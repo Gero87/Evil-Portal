@@ -16,3 +16,5 @@ Led --> 13
 
 Flashing with ESP_tool
 0x10000
+
+To see logs: connect to 192.168.4.1/logs
