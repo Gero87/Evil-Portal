@@ -1,3 +1,5 @@
+# A simple tool to emulate a fake free wi-fi and capture credential.
+
 # Contact me to telegram at @kyuubi2687 for the complete firmware or join in the channel
 https://t.me/EvilPortal_ESP32
 -----------------------------------------------------------------------
