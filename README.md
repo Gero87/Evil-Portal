@@ -1,4 +1,5 @@
-# Contact me to telegram at @kyuubi2687 for the complete firmware
+# Contact me to telegram at @kyuubi2687 for the complete firmware or join in the channel
+https://t.me/EvilPortal_ESP32
 -----------------------------------------------------------------------
 
 # Evil-Portal Sample
@@ -10,7 +11,8 @@ button down --> 33
 button confirm --> 2
 
 Display 0.96" oled
-GND--> GND
+GND--> GND!
+
 VDD--> 3.3V
 SCK--> 5
 SDA--> 4
