@@ -1,4 +1,4 @@
-# Contact me to oreg1987@libero.it for the complete firmware
+# Contact me to telegram at @kyuubi2687 for the complete firmware
 -----------------------------------------------------------------------
 
 # Evil-Portal Sample
