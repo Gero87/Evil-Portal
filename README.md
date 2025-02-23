@@ -35,7 +35,7 @@ Flashing with ESP_tool
 
 
 
-# Connections for ESP32 C3
+# Connections for ESP32 C3 Mini
 
 //button UP --> 0
 //button down --> 1
