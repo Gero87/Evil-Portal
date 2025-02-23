@@ -12,6 +12,7 @@ https://t.me/EvilPortal_ESP32
 
 ![1](https://github.com/user-attachments/assets/098c2fd5-e1b4-4c64-a88c-5c1709aaea0a)
 
+# To see logs: connect to 192.168.4.1/logs
 
 # Evil-Portal Sample (Yahoo + Led)
 
@@ -32,6 +33,21 @@ Display 0.96" oled
 Flashing with ESP_tool
 0x10000
 
-To see logs: connect to 192.168.4.1/logs
 
-# Firmare for ESP32 C3 mini will coming soon! 
+
+# Connections for ESP32 C3
+
+//button UP --> 0
+//button down --> 1
+//button confirm --> 2
+
+Display 0.96" oled
+//GND--> GND!
+//VDD--> 3.3V
+//SCK--> 9
+//SDA--> 8
+
+//Led --> 21
+
+Flashing with ESP_tool
+0x10000
